@@ -14,5 +14,8 @@
     "test_project"
   ],
   "author": "Ihor",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^10.3.1"
+  }
 }
